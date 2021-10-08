@@ -1,0 +1,1 @@
+﻿Start-Process -FilePath "powershell" -ArgumentList '-noprofile -file C:\Scripts\UpdatePoShModules.ps1' -Verb RunAs
